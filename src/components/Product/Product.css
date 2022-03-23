@@ -1,0 +1,28 @@
+.product img{
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    
+}
+.product{
+    width: 300px;
+    min-height: 430px;
+    border: 1px solid green;
+    position: relative;
+}
+.btn{
+    background: #FFE0B3;
+border: 1px solid #95A0A7;
+width: 100%;
+position: absolute;
+left: 0px;
+bottom: 0;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button p{
+    padding-right: 5px;
+}
