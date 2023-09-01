@@ -8,6 +8,7 @@ function App() {
   
   return (
     <div className="App">
+      {/* code */}
      <Header></Header>
      <Shop></Shop>
      
